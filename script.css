@@ -1,0 +1,48 @@
+*
+{
+    box-sizing: border-box;
+}
+
+
+.menu
+{ min-height: 8%;
+   
+   background-color: #FF9800;
+}
+.nav-link
+{
+    color: white;
+}
+.nav-link:hover{
+    color: black;
+}
+.navbar-toggler .fa
+{
+    color: white;
+}
+.navbar-toggler:hover ,.navbar-toggler{
+    outline: none;
+  
+}
+
+.p
+{  margin: 10px;
+    text-align: center;
+  text-decoration-line: underline;
+}
+
+.para
+{
+    text-align: center;
+    background-color: #FF9800;
+    color: white;
+    font-size: 0.6cm;
+}
+
+.n
+{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
