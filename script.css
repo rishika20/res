@@ -1,0 +1,63 @@
+*
+{
+    box-sizing: border-box;
+}
+
+
+.menu
+{ min-height: 8%;
+   
+   background-color: #FF9800;
+}
+.nav-link
+{
+    color: white;
+}
+.nav-link:hover{
+    color: black;
+}
+.navbar-toggler .fa
+{
+    color: white;
+}
+.navbar-toggler:hover ,.navbar-toggler{
+    outline: none;
+  
+}
+
+.p
+{  margin: 10px;
+    text-align: center;
+  text-decoration-line: underline;
+  font-size: 1.5cm;
+  color: #FF9800;
+  
+}
+.hh
+{
+    align-items: center;
+    width: 450px;
+    height: 200px;
+}
+.j
+{
+    font-size: 0.7 cm;
+    color: #FF9800;
+    font-family: sans-serif;
+}
+
+.para
+{
+    text-align: center;
+    background-color: #FF9800;
+    color: white;
+    font-size: 0.6cm;
+}
+
+.n
+{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
